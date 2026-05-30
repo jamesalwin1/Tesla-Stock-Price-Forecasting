@@ -208,17 +208,16 @@ Execute all notebook cells sequentially to:
 ## Output Screenshots
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
 ### Tesla Stock Price History
-![Stock Price History](images/stock_price_history.png)
+![Stock Price History](screenshots/stock_price_history.png)
 
 ### Training Loss Curve
-![Loss Curve](images/loss_curve.png)
+![Loss Curve](screenshots/loss_curve.png)
 
 ### Actual vs Predicted Prices
-![Prediction vs Actual](images/prediction_vs_actual.png)
-
+![Prediction vs Actual](screenshots/prediction_vs_actual.png)
 ---
 
 ## Conclusion
